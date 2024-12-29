@@ -2,6 +2,7 @@
 ## Setup
 
 Use Vite for the build tool instead of Webpack. See https://vite.dev/guide/ for how to get started.
+Go through this [udemy course](https://www.udemy.com/course/vite-developers-guide/learn/lecture/36765302#overview)
 
 I used the following command to create the project:
 
